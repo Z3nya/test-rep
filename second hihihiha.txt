@@ -1,0 +1,18 @@
+Task to complete
+Version control task:
+If Git version control system is not installed, install it (options remain by default).
+Run Git GUI or TortoiseGit. Create a new repository (depending on the student's last name).
+Add files to the repository folder. Commit the repository state (perform a commit).
+Make changes to the files. Commit the new repository state.
+Create branch 1. Make changes to it (add a new file and change an existing file: add, delete, and change lines) and commit them.
+Enable the master branch. Make changes to it (add a new file; change possible files: add, delete, and change the first original file) and commit them.
+About the transition, merging branches. Resolve the conflict that has arisen.
+View the tree of branch changes (history).
+About preventing rollback of changes in a branch 1.
+Create a remote repository (on github.com or online).
+Send data to the remote repository (done by one of the students in the subgroup).Add project participants to the remote repository.
+Get data from the remote repository (done by other students).
+Modify the received data.
+Commit the changes and send them to remote repositories (served by all student subgroups).
+Get data from the remote repository.
+View the change history.
